@@ -1,5 +1,5 @@
 {
-  "name": "keyboard-music-name",
+  "name": "pixijs-ts-template",
   "version": "1.0.0",
   "description": "Webpack + Typescript Pixi.js Template",
   "main": "index.js",
